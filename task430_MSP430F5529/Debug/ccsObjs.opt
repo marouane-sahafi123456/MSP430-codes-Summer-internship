@@ -1,0 +1,1 @@
+"./task.obj" "../lnk_msp430f5529.cmd" -l"configPkg/linker.cmd" -llibmath.a -llibc.a 
